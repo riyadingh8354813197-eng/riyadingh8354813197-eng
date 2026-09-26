@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👑 BLACK EMPIRE | BLACK CAPITAL
+### Founder & CEO - Riya Singh 🦅
 
-<!--
-**riyadingh8354813197-eng/riyadingh8354813197-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Building Digital Empires from Fatehpur to Global
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 My Empire LIVE
+- 🌐 Portfolio: **queen-riya-brown.vercel.app**
+- 💼 LinkedIn: Founder @ BLACK EMPIRE (Official)
+- 💰 Company: BLACK CAPITAL
+
+### 💻 Tech Stack
+`HTML` `CSS` `JavaScript` `Vercel` `GitHub`
+
+### 🎯 Mission
+I am not waiting for the future, I am the CEO of the Present. My Empire is LIVE now!
+
+---
+🦅 **BLACK EMPIRE - My Empire, My Identity**
